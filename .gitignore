@@ -1,0 +1,10 @@
+
+# Node
+node_modules/
+.next/
+out/
+.env.local
+
+# System
+.DS_Store
+*.log
